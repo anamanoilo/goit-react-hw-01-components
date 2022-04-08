@@ -1,0 +1,13 @@
+.tableData {
+  padding: 10px;
+  border: 1px solid rgb(163, 163, 163);
+  text-align: center;
+  font-size: 15px;
+}
+
+.type {
+  text-transform: capitalize;
+}
+.row:nth-child(2n) {
+  background-color: rgb(236, 236, 236);
+}
